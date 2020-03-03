@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/08_DHT_Bass_Loop_D_124.wav-b89ad8c24f906dea4242884abf1dec36.sample"
+
+[deps]
+
+source_file="res://Assets/Sounds 2/08_DHT_Bass_Loop_D_124.wav"
+dest_files=[ "res://.import/08_DHT_Bass_Loop_D_124.wav-b89ad8c24f906dea4242884abf1dec36.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=true
+edit/normalize=true
+edit/loop=true
+compress/mode=0
